@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790906632068",
+    "project_id": "instagram-clone-a3c01",
+    "storage_bucket": "instagram-clone-a3c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790906632068:android:fbcbcf6fda7c811cae0fd1",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfNBJSqROeBJp58x39PUXirm402xFRsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
